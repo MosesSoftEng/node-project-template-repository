@@ -1,2 +1,2 @@
 # template-repository
-Repository desciprition.
+Repository description.
